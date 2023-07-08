@@ -1,50 +1,43 @@
 # Site Info
-title:              "Abhishek H"
-description:        "My personal blog"
-author_name:        "Abhishek H" # change this to your name
-logo_url:           https://avatars.githubusercontent.com/u/87843823?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+title: "Abhishek H"
+description: "My personal blog"
+author_name: "Abhishek H" # change this to your name
+logo_url: https://avatars.githubusercontent.com/u/87843823?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://abhishekhari.com # main url
-baseurl:            ""
-permalink:          /:title # Post permalink
-timezone:           Asia/Calcutta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
+url: https://abhishek7h.github.io/the-plain # main url
+baseurl: ""
+permalink: /:title # Post permalink
+timezone: Asia/Calcutta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax: true # enables support for mathjax - set to 'false' to disable
 social_share_previews: true
 
 # Site Build
-highlighter:        rouge
-markdown:           kramdown
+highlighter: rouge
+markdown: kramdown
 kramdown:
-    input:          GFM
+  input: GFM
 sass:
-    style:          :compressed
+  style: :compressed
 
 # Other Params
-include:            [ "robots.txt" ]
-exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
-plugins:
-  - jekyll-sitemap
-
-
-
-defaults:
-  -
-    scope:
-      path:         ""
-    values:
-      layout:       "null"
-  -
-    scope:
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      type:         "posts"
-    values:
-      layout:       "post"
+include: ["robots.txt"]
+exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
 plugins:
   - jekyll-remote-theme
 
 remote_theme: heiswayi/the-plain
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "null"
+  - scope:
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      type: "posts"
+    values:
+      layout: "post"
