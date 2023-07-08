@@ -1,6 +1,6 @@
 ---
 title: The Power of Positive Thinking
-updated: 2023-8-7 15:39
+updated: 2023-03-08 15:39
 ---
 
 We live in a harsh and hectic world. We get depressed quickly. It could be from what someone said or what someone did, something that happened and so on. We have two options: one, don’t do anything, stay sad and just keep remembering what happened; and two, do whatever you can to lift your spirit, forget what happened and stay happy. The viable option is option two, but most of us tend to choose option one because it’s just easier. What someone said doesn’t mean anything. They would’ve forgotten about it, but every time we see them, our own anger rises. Who’s in a better position here? They are, of course. They pissed you off and now they have this “peace of mind” which is utter BS.
