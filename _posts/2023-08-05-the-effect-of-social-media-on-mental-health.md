@@ -1,6 +1,6 @@
 ---
 title: The Effect of Social Media on Mental Health
-updated: 2023-08-05 12:43
+updated: 2023-08-05 12:43 +5:30
 ---
 
 Since the beginning of the 21st century, social media has started to gain fame. Billions of people use social media worldwide. Everyone has an account of one social media or the other, mainly, the “Big Three” of social media: Facebook, Twitter and Instagram.
