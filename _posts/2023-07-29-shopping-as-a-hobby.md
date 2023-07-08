@@ -1,6 +1,6 @@
 ---
 title: Shopping as a Hobby
-updated: 2023-07-29 16:58
+updated: 2023-07-29 15:40
 ---
 
 People have different ways to relax. Whether it be watching TV, reading or playing video games. One such thing is shopping. For some people, going on a shopping spree is their way of relaxing.
