@@ -1,6 +1,6 @@
 ---
 title: Here's How to Spend Less but Quality Time on Your Phone
-updated: 2023-05-27 5:02
+updated: 2023-05-27 15:02
 ---
 
 We’re all hooked to our smartphones. It’s such an essential part of our life that we can’t live without it. Frankly, it’s all we need to take if we’re going somewhere. It has everything — money, IDs, etc.
