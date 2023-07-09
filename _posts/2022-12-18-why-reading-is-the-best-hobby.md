@@ -25,7 +25,7 @@ Deleting mobile games was one of my best decisions. You see its kind of an addic
 
 I stand by my statement that books are the ultimate hobby. There are other hobbies like programming, cooking, music, but books dominate this world. At least for me (and millions of other people too).
 
-A reading habit is a person’s greatest power. Muscles somewhat help too, like opening a pickle jar. Jokes aside now. I recommend to find a favourite genre. Whether it be thrillers or sci-fi, find a book genre that suits you. My favourite genres are romance and rom-coms.
+A reading habit is a person’s greatest power. Muscles somewhat help too, like opening a pickle jar. Jokes aside now. I recommend to find a favourite genre. Whether it be thrillers or sci-fi, find a book genre that suits you. My favourite genres are thrillers, humour and rom-coms.
 
 For readers, a bookshop/library is like Heaven. I had this feeling yesterday when I went to the mall and entered the bookshop. I felt like I could live there. So. Many. Good. Books. I wanted to buy like 15 books but settled on buying 3.
 
