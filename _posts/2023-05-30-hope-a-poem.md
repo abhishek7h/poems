@@ -1,54 +1,98 @@
 ---
-title: Hope - A poem
+title: Hope - A Poem
 updated: 2023-05-30 6:30
 ---
 
 Don’t lose hope,
-You’ve got to cope.
-Hanging by a string,
-Don’t let your ears ring.
-Look at the sky,
-As you fly.
-Exquisite cloud,
-As your mind gets loud.
-Just have hope,
-And trot the globe.
-You’ll find a way,
-To make it sway.
-Yourself you should love,
-And the one above.
-Be brave,
-And crave.
-Success you will find,
-Don’t look behind.
-You’ve come this far,
-Look at your scar.
-You’ll win,
-So just begin.
 
-Think of the pain,
-You’ve endured to train.
-With your drive,
-You shall thrive.
-The journey you’ve taken,
-Should leave the mob shaken.
-Always be kind,
-To the ones who mind.
+You’ve got to cope.
+
+Hanging by a string,
+
+Don’t let your ears ring.
+
+Look at the sky,
+
+As you fly.
+
+Exquisite cloud,
+
+As your mind gets loud.
+
 Just have hope,
+
+And trot the globe.
+
+You’ll find a way,
+
+To make it sway.
+
+Yourself you should love,
+
+And the one above.
+
+Be brave,
+
+And crave.
+
+Success you will find,
+
+Don’t look behind.
+
+You’ve come this far,
+
+Look at your scar.
+
+You’ll win,
+
+So just begin.
+...
+Think of the pain,
+
+You’ve endured to train.
+
+With your drive,
+
+You shall thrive.
+
+The journey you’ve taken,
+
+Should leave the mob shaken.
+
+Always be kind,
+
+To the ones who mind.
+
+Just have hope,
+
 And climb the slope.
+
 You’ll rise,
+
 To the skies.
+
 Right there,
+
 Is all that you care.
+
 Hold your head high,
+
 So you won’t die.
+
 Walk straight,
+
 And don’t hate.
+
 Just forgive,
+
 And let live.
+
 After all,
+
 You didn’t fall.
+
 You didn’t lose hope,
+
 You did cope.
 
-(This poem made it into a magazine, being my first publishe poem!)
+(This poem made it into a magazine, being my first published poem!)
