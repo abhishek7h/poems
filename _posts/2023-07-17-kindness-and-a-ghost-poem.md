@@ -1,6 +1,6 @@
 ---
 title: Kindness and a Ghost - A Poem
-updated: 2023-07-18 08:13
+updated: 2023-07-17 08:13
 ---
 
 Kindness is a virtue,
