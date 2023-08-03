@@ -5,7 +5,7 @@ updated: 2023-08-02 15:03
 
 There is a common misconception that those who are skilled at something were born with that skill.
 
-That is absolutely not true. No one is born with any skill. For example, a famous musician. They didn't come out of the womb plyaing a piano, did they? Nope, they started practicing from the age they could. They learnt like a beginner because they were one, they went through the ups and downs of learning a skill. No one can see the hardships they had to face to become a musician. When they rose to fame, people though they had natural talent and learnt all their skills overnight.
+That is absolutely not true. No one is born with any skill. For example, a famous musician. They didn't come out of the womb playing a piano, did they? Nope, they started practicing from the age they could. They learnt like a beginner because they were one, they went through the ups and downs of learning a skill. No one can see the hardships they had to face to become a musician. When they rose to fame, people though they had natural talent and learnt all their skills overnight.
 
 That is exactly the case. Everyone believes a skilled person became so just in a few days or months. What people don't realize is of the years and years they kept learning to become so skilled.
 
