@@ -3,7 +3,7 @@ title: Books are Magic
 updated: 2023-07-25 17:48
 ---
 
-ave you ever noticed how time moves slow when you read books? On the other hand, time moves like lightning when you start scrolling through Instagram or YouTube.
+Have you ever noticed how time moves slow when you read books? On the other hand, time moves like lightning when you start scrolling through Instagram or YouTube.
 
 You could read a hundred pages and time won't have gone much, but if you sat and watched a hundred shorts, well, it would've definitely taken some time. That's the magic of books.
 
