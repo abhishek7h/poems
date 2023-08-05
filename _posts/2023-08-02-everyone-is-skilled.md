@@ -11,4 +11,4 @@ That is exactly the case. Everyone believes a skilled person became so just in a
 
 If you want to be skilled at something, say writing, just write. Write out your head and heart. Empty your thoughts onto a paper or document. Share what you want with the world. If someone judges you, let them. You can get free judgment. They probably will try to point out your mistakes, and bingo, that's exactly what you need. Feedback from a third party.
 
-So, my point is, just keep doing what you want to be skilled at. Don't stop even if people demotivate you. You just gotta work hard. It ain't easy to get skilled at something in just a day. It takes a time. A lot of time, and patience definitely is the key.
+So, my point is, just keep doing what you want to be skilled at. Don't stop even if people demotivate you. You just gotta work hard. It ain't easy to get skilled at something in just a day. It takes time. A lot of time, and patience definitely is the key.
