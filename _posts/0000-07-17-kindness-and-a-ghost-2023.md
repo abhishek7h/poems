@@ -1,5 +1,5 @@
 ---
-title: Kindness and a Ghost - Poem (2023)
+title: Kindness and a Ghost
 updated: 2023-07-17 08:13
 ---
 
