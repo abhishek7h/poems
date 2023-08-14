@@ -3,11 +3,12 @@
   '/about' %} {% assign prompt = 'About the Author' %} {% else %} {% assign link
   = '/' %} {% assign prompt = 'Back to Index' %} {% endif %}
 
-  <b><a href="/about">About</a></b> <b><a href="/football">Football</a></b>
-  <b><a href="/reads">Reads</a></b>
-
   <a href="{{ link | prepend: site.baseurl | prepend: site.url }}">
     <img src="{{ site.logo_url }}" alt="" class="logo-avatar" />
   </a>
+
+  <b><a href="/about">About</a></b> <b><a href="/football">Football</a></b>
+  <b><a href="/reads">Reads</a></b>
+
   <span class="logo-prompt code">{{ prompt }}</span>
 </aside>
