@@ -1,6 +1,8 @@
 ---
-title: "Everyone Is Skilled"
-updated: 2023-08-02 15:03
+title: Everyone Is Skilled
+date: 2023-08-02 15:03
+categories: [Life, Life Advice, Self-Confidence]
+tags: [life]
 ---
 
 There is a common misconception that those who are skilled at something were born with that skill.

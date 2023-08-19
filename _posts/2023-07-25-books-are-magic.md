@@ -1,6 +1,8 @@
 ---
 title: Books are Magic
-updated: 2023-07-25 17:48
+date: 2023-07-25 17:48
+categories: [Books, Reading, Essay]
+tags: [books]
 ---
 
 Have you ever noticed how time moves slow when you read books? On the other hand, time moves like lightning when you start scrolling through Instagram or YouTube.

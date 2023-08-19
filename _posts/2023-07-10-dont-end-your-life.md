@@ -1,6 +1,8 @@
 ---
 title: Don't End Your Life
-updated: 2023-07-10 19:35
+date: 2023-07-10 19:35
+categories: [Life, Motivation, Self-Awareness]
+tags: [motivation]
 ---
 
 Life is hard. Life is very hard. Life is a difficult race in which if you don't run quick enough, you'll be crushed by the stampede. You might have heard this somewhere, but that doesn't matter. What matters is your life. You don't know the value of your life. It's the most precious thing that you have, along with the lives of your loved ones. But whatever happens, quitting life should never be an option. Even if life brings you to your knees, don't quit. You mustn't.

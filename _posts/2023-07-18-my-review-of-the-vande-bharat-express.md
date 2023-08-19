@@ -1,6 +1,8 @@
 ---
 title: "My Review of the Vande Bharat Express"
-updated: 2023-07-18 20:07
+date: 2023-07-18 20:07
+categories: [Life, Travel, Review]
+tags: [travel]
 ---
 
 ![Vande Bharat](https://pbs.twimg.com/media/F1Tj9BSaIAAJvSu?format=jpg&name=large)

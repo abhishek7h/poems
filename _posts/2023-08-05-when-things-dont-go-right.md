@@ -1,6 +1,8 @@
 ---
 title: When Things Don't Go Right
-updated: 2023-08-05 22:00
+date: 2023-08-05 22:00
+categories: [Life, Problems, Advice]
+tags: [life]
 ---
 
 It feels awful when things don't go the way we intended them to. It happens quite often actually, and we have different ways to deal with it. Some might get angry or some might get sad, but what we really should do is accept it.

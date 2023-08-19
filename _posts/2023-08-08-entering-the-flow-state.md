@@ -1,6 +1,8 @@
 ---
 title: Entering The Flow State
-updated: 2023-08-08 11:11
+date: 2023-08-08 11:11
+categories: [Psychology, Productivity]
+tags: [productivity]
 ---
 
 The flow state is a mental state. It is achieved when one is in deep concentration, literally a state of hyper-productivity. It's not very hard to enter, but once you do, you can do wonders. World's biggest scientific discoveries are done when the scientists were in the flow state. Inventions were invented in the flow state.

@@ -1,6 +1,8 @@
 ---
 title: Celebrating 77 Years of Indian Independence
-updated: 2023-08-15 11:11
+date: 2023-08-15 11:11
+categories: [Festival, Celebration, History]
+tags: [history]
 ---
 
 This day marks the aftermath of British rule, the day we finally broke the shackles of oppression and emerged free, all thanks to selfless leaders who put the nation in front of themselves. We must be grateful for being able to call this land filled with culture, tradition and history our home. Independence Day is one of the most awaited and cherished celebrations of the plethora of festivals our country celebrates.

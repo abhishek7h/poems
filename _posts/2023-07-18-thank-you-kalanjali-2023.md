@@ -1,6 +1,8 @@
 ---
 title: Thank you for a Wonderful Kalanjali 2023
-updated: 2023-07-18 08:12
+date: 2023-07-18 08:12
+categories: [Life, Events, Regards]
+tags: [regards]
 ---
 
 Dear all,
