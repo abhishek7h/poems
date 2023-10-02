@@ -5,7 +5,7 @@ author_name: "Abhishek Hari" # change this to your name
 logo_url: https://avatars.githubusercontent.com/u/87843823?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url: https://abhishekhari.com # main url
+url: https://abhishekhari.com/words # main url
 baseurl: ""
 permalink: /:title # Post permalink
 timezone: Asia/Calcutta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
