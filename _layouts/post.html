@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <article>
@@ -15,18 +16,7 @@ layout: default
 
 </article>
 
-<div class="page-navigation code">
-	{% if page.next.url %}
-    <a class="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="NEXT: {{page.next.title}}">&lt;&lt;</a>
-		<span> &middot; </span>
-  {% endif %}
-		<a class="home" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}" title="Back to Index">Index</a>
-  {% if page.previous.url %}
-		<span> &middot; </span>
-    <a class="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="PREV: {{page.previous.title}}">&gt;&gt;</a>
-  {% endif %}
-</div>
-
+{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -46,3 +36,16 @@ layout: default
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
+
+<div class="page-navigation code">
+	{% if page.next.url %}
+    <a class="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="NEXT: {{page.next.title}}">&lt;&lt;</a>
+		<span> &middot; </span>
+  {% endif %}
+		<a class="home" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}" title="Back to Index">Index</a>
+  {% if page.previous.url %}
+		<span> &middot; </span>
+    <a class="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="PREV: {{page.previous.title}}">&gt;&gt;</a>
+  {% endif %}
+</div>
